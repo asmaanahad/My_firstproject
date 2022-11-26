@@ -6,4 +6,4 @@ COPY asmaaa.java .
 
 RUN javac asmaaa.java
 
-CMD asmaaa.java
+CMD java asmaaa
